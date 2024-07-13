@@ -1,12 +1,10 @@
 # ANIMATE
 
-
-## ANIMATE
 ___
 This is  the source code for "ANIMATE: Unsupervised Attributed Graph Anomaly Detection with Masked Graph Transformers"
 
 
-### Requirements
+## Requirements
 ___
 - Python >= 3.7
 - Pytorch >= 1.10
@@ -18,14 +16,14 @@ ___
 
 
 
-### Dataset
+## Dataset
 
 We have already put the datasets in folder named `data`. You can also download `Yelp.pt` from Pygod repo. 
 
 
 
 
-### Running
+## Running
 ___
 Take Books dataset as an example:
 
