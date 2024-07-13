@@ -27,11 +27,11 @@ We have already put the datasets in folder named `data`. You can also download `
 ___
 Take Books dataset as an example:
 
-    python train.py --dataset Books
+    python train.py --dataset_name Books
     
 ___
 To train and evaluate on other datasets:
 
-    python train.py --dataset Disney
-    python train.py --dataset Reddit
-    python train.py --dataset Yelp
+    python train.py --dataset_name Disney
+    python train.py --dataset_name Reddit
+    python train.py --dataset_name Yelp
