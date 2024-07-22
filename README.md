@@ -5,7 +5,6 @@ This is  the source code for "ANIMATE: Unsupervised Attributed Graph Anomaly Det
 
 
 ## Requirements
-___
 - Python >= 3.7
 - Pytorch >= 1.10
 - Numpy >= 1.21.6
@@ -24,7 +23,6 @@ We have already put the datasets in folder named `data`. You can also download `
 
 
 ## Running
-___
 Take Books dataset as an example:
 
     python train.py --dataset_name Books
